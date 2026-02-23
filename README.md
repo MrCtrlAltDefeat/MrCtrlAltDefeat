@@ -16,9 +16,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-mahmoud-9465892b8/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.mahmoud5904@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrCtrlAltDefeate)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrCtrlAltDefeat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=github-pages&logoColor=black)](https://MrCtrlAltDefeat.github.io)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrCtrlAltDefeate&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=MrCtrlAltDefeat&style=for-the-badge&color=0e75b6)
 
 </div>
 
